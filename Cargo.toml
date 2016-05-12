@@ -1,0 +1,9 @@
+[package]
+name = "resaw"
+version = "0.1.0"
+authors = ["Jonathan Shook <jshook@gmail.com>"]
+description = "A regex pattern API that makes it easier to saw through lots of input with minimal effort."
+readme = "README.md"
+license = "Apache-2.0"
+
+[dependencies]
